@@ -45,15 +45,16 @@
 
     <Button
         android:id="@+id/button_confirm_next"
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="748dp"
         android:backgroundTint="#001CD4"
+        android:layout_marginStart="130sp"
         android:freezesText="true"
         android:shadowColor="#FFFFFF"
         android:text="CONFIRM"
         android:textColor="#CD4A77"
-        android:textSize="30sp"
+        android:textSize="20sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
