@@ -149,7 +149,7 @@ class Quize : AppCompatActivity() {
                                 intent.putExtra("Scores", score)
                                 intent.putExtra("Wrong", wcount)
                                 startActivity(intent)
-                                startActivity(intent)
+                                
                             }
                         }
                     }
